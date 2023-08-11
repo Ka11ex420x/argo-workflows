@@ -8075,10 +8075,10 @@ react-moment@^1.1.1:
   resolved "https://registry.yarnpkg.com/react-moment/-/react-moment-1.1.2.tgz#a9b157c58ddd226a2f746e5ca43415b24a17b6af"
   integrity sha512-lfb+shYXI2tXlQrNUpNr05/1D/kzFj8Isbfp89DQrpZk0fs2JIAnLHWETR0hQS9zvtzwLWlVv0wKLffbue5HoA==
 
-react-monaco-editor@^0.50.1:
-  version "0.50.1"
-  resolved "https://registry.yarnpkg.com/react-monaco-editor/-/react-monaco-editor-0.50.1.tgz#3b68ce03e4b316f435b9bcd8ec13ffd4c050c605"
-  integrity sha512-qvYdJhQdkPIrPDMxCrEl0T2x9TfBB+aUbrpFv69FwoTybeyfAjxgJ219MYSsgn3c/g06BgyLX4ENrXM4niZ9ag==
+react-monaco-editor@^0.53.0:
+  version "0.53.0"
+  resolved "https://registry.yarnpkg.com/react-monaco-editor/-/react-monaco-editor-0.53.0.tgz#d3eecbdc0d882ecb4e46c17de6f8ca4e2ac31625"
+  integrity sha512-ZITzsauH4CsicCGddtpgjRACaKNTVEL2hnjYFx8QMuc8zmsgfgq7D2GcF8OQsa2URIdGm/Zl7YwY2fmWpvqs/g==
   dependencies:
     prop-types "^15.8.1"
 
